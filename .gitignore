@@ -1,0 +1,3 @@
+*.har
+*.csv
+node_modules
